@@ -49,6 +49,8 @@ box-shadow: mediumslateblue;
 height: 300px;
 }
 .image{
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 20pt;
 	height: 300px;
 	background: url('../img/Hamstertwo.jpg') right no-repeat;
 	background-size: 15%;
